@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katalis-design
+- 👋 Hi, I’m @PTKIS-Design
 - 👀 I’m interested in Design & Technology
 - 🌱 I’m currently learning Figma
 - 💞️ I’m looking to collaborate on any projects
